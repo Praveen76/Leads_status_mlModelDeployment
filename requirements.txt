@@ -16,4 +16,3 @@ cloudpickle>=0.6.0
 scikit-learn==0.20.0
 joblib==0.14.0
 pytest==6.1.1
-pytest-cov==2.7.1
